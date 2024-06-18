@@ -36,8 +36,8 @@ int main()
 /*
 * 1. Setup Game Loop - Done
 * 2. Create Spaceship - Done
-* 3. Lasers (for Spaceship and Aliens) - Work in progress
-* 4. Create Obstacles
+* 3. Lasers (for Spaceship and Aliens) - Done
+* 4. Create Obstacles - Work in progress
 * 5. Create Aliens
 * 6. Create Mystery Ship
 * 7. Check for collisions
