@@ -1,8 +1,8 @@
 ﻿  game.cpp
-C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(77,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(78,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(110,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(111,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(80,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(81,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(114,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(115,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   SpaceInvaders.vcxproj -> C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\x64\Debug\SpaceInvaders.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
