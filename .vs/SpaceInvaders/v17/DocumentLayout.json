@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:alien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:alien.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:obstacle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\laser.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "alien.cpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.cpp",
+              "RelativeDocumentMoniker": "alien.cpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.cpp",
+              "RelativeToolTip": "alien.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T03:49:39.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "alien.hpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.hpp",
+              "RelativeDocumentMoniker": "alien.hpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\alien.hpp",
+              "RelativeToolTip": "alien.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-18T03:48:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "obstacle.hpp",
               "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\obstacle.hpp",
               "RelativeDocumentMoniker": "obstacle.hpp",
@@ -46,25 +76,11 @@
               "RelativeToolTip": "obstacle.hpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T03:41:08.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T03:41:08.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "game.hpp",
-              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp",
-              "RelativeDocumentMoniker": "game.hpp",
-              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp",
-              "RelativeToolTip": "game.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-18T03:11:56.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "laser.cpp",
               "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\laser.cpp",
               "RelativeDocumentMoniker": "laser.cpp",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "laser.hpp",
               "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\laser.hpp",
               "RelativeDocumentMoniker": "laser.hpp",
@@ -94,20 +110,20 @@
               "RelativeDocumentMoniker": "game.cpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.cpp",
               "RelativeToolTip": "game.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwCEAAAASAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwGAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T00:51:10.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SpaceInvaders.cpp",
               "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp",
               "RelativeDocumentMoniker": "SpaceInvaders.cpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp",
               "RelativeToolTip": "SpaceInvaders.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAACAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T00:36:22.561Z",
               "EditorCaption": ""

@@ -3,6 +3,7 @@
 Game::Game() 
 {
 	obstacles = CreateObstacles();
+	aliens = CreateAliens();
 }
 
 Game::~Game()
@@ -32,6 +33,11 @@ void Game::Draw()
 	for (auto& obstacle : obstacles)
 	{
 		obstacle.Draw();
+	}
+
+	for (auto& alien : aliens)
+	{
+		alien.Draw();
 	}
 }
 
@@ -77,4 +83,35 @@ std::vector<Obstacle> Game::CreateObstacles()
 		obstacles.push_back(Obstacle({ offsetX, float(GetScreenHeight() - 100) }));
 	}
 	return obstacles;
+}
+
+std::vector<Alien> Game::CreateAliens()
+{
+	int cellSize = 55;
+
+	std::vector<Alien> aliens;
+	for (int row = 0; row < 5; row++)
+	{
+		for (int col = 0; col < 11; col++)
+		{
+			// Determine alien
+			int alienType;
+			if (row == 0)
+			{
+				alienType = 3;
+			}
+			else if (row == 1 || row == 2)
+			{
+				alienType = 2;
+			}
+			else {
+				alienType = 1;
+			}
+
+			float x = 75 + col * cellSize;
+			float y = 110 + row * cellSize;
+			aliens.push_back(Alien(alienType, {x, y}));
+		}
+	}
+	return aliens;
 }
