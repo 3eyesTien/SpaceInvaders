@@ -19,10 +19,12 @@ int main()
 	while (WindowShouldClose() == false) //  WindowShouldClose checks if esc key is pressed or close button on window is clicked
 	{
 		game.HandleInput();
+		game.Update();
 
 		BeginDrawing();
 		ClearBackground(gray);
 		game.Draw();
+		
 
 		EndDrawing();
 	}
