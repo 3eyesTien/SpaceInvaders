@@ -1,9 +1,7 @@
 // SpaceInvaders.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
 #include <raylib.h>
 #include "game.hpp"
-
 
 int main()
 {
@@ -25,10 +23,8 @@ int main()
 		ClearBackground(gray);
 		game.Draw();
 		
-
 		EndDrawing();
 	}
-
 	CloseWindow();
 }
 

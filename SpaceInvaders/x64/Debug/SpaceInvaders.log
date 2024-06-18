@@ -1,4 +1,9 @@
-﻿  game.cpp
+﻿  SpaceInvaders.cpp
+  game.cpp
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(71,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\game.cpp(72,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  obstacle.cpp
+  Generating Code...
   SpaceInvaders.vcxproj -> C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\x64\Debug\SpaceInvaders.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
