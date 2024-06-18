@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:SpaceInvaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:spaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spaceship.cpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.cpp",
+              "RelativeDocumentMoniker": "spaceship.cpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.cpp",
+              "RelativeToolTip": "spaceship.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T00:43:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "spaceship.hpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.hpp",
+              "RelativeDocumentMoniker": "spaceship.hpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.hpp",
+              "RelativeToolTip": "spaceship.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-18T00:41:06.471Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "SpaceInvaders.cpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp",
               "RelativeToolTip": "SpaceInvaders.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T00:36:22.561Z",
               "EditorCaption": ""
