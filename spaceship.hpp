@@ -14,5 +14,6 @@ public:
 private:
 	Texture2D image;
 	Vector2 position;
+	int moveVelocity = 7;
 
 };

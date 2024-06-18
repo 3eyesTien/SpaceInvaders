@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:spaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9993D0E4-9706-42DB-8CC0-E35F68C78916}|SpaceInvaders.vcxproj|solutionrelative:game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T00:51:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.hpp",
+              "DocumentMoniker": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp",
+              "RelativeDocumentMoniker": "game.hpp",
+              "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\game.hpp",
+              "RelativeToolTip": "game.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-18T00:50:02.09Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "spaceship.cpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.cpp",
               "RelativeToolTip": "spaceship.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T00:43:23.712Z",
               "EditorCaption": ""
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "spaceship.hpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\spaceship.hpp",
               "RelativeToolTip": "spaceship.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-18T00:41:06.471Z",
               "EditorCaption": ""
@@ -58,7 +92,7 @@
               "RelativeDocumentMoniker": "SpaceInvaders.cpp",
               "ToolTip": "C:\\Users\\nobodhi\\Documents\\GitHub\\C\u002B\u002B Projects\\SpaceInvaders\\SpaceInvaders.cpp",
               "RelativeToolTip": "SpaceInvaders.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAATAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T00:36:22.561Z",
               "EditorCaption": ""

@@ -2,7 +2,8 @@
 //
 
 #include <raylib.h>
-#include "spaceship.hpp"
+#include "game.hpp"
+
 
 int main()
 {
@@ -13,16 +14,33 @@ int main()
 	InitWindow(windowWidth, windowHeight, "Space Invaders");
 	SetTargetFPS(60);
 
-	Spaceship spaceship = Spaceship();
+	Game game;
 
 	while (WindowShouldClose() == false) //  WindowShouldClose checks if esc key is pressed or close button on window is clicked
 	{
+		game.HandleInput();
+
 		BeginDrawing();
 		ClearBackground(gray);
-		spaceship.Draw();
+		game.Draw();
 
 		EndDrawing();
 	}
 
 	CloseWindow();
 }
+
+// To Do Checklist
+/*
+* 1. Setup Game Loop - Done
+* 2. Create Spaceship - Done
+* 3. Lasers (for Spaceship and Aliens) - Work in progress
+* 4. Create Obstacles
+* 5. Create Aliens
+* 6. Create Mystery Ship
+* 7. Check for collisions
+* 8. Game Over
+* 9. Add Score
+* 10.Add High-Score
+* 11.Add Sounds
+*/
