@@ -1,0 +1,2 @@
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\x64\Debug\raylib.dll
+C:\Users\nobodhi\Documents\GitHub\C++ Projects\SpaceInvaders\SpaceInvaders\x64\Debug\SpaceInv.53607584.Up2Date
